@@ -1,2 +1,2 @@
 # C-_Object_Oriented_Programming
-Projects that demonstate object oreinted in C# programming 
+The project is a simple Car Rental application system that is to utilises windows forms C#  
