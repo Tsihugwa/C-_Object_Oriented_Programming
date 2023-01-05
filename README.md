@@ -1,2 +1,3 @@
 # C-_Object_Oriented_Programming
-Projects that demonstate object oreinted in C# programming 
+This project is a patient based appointment booking draft prototype for a hospital using Windows forms
+The code impletements the use of Classes, polymorphism and inheritance for functionality to represent the different types of appointments. It also implements use of Interface class to allow for calculation of the cost of different types of appointments. The system utilises the use of serialization when saving the appointment and desrilaisation and passing data between forms after deserialization. Lastly, the system undergoes unit testing to ensure it is working smoothly.
