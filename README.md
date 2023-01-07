@@ -56,5 +56,13 @@ btnExit: closes the window
 btnNewAppointments: opens a new window for creating appointments
 btnAppointments: opens a window displaying all appointments
 The btnAppointments button also deserializes data from the "Appointments.dat" file and displays it in the AllAppointments form. If the file does not exist or is empty, a message box will appear saying "No data available to display".
+  
+The Appointments file shows this project contains three classes: Appointments, Video, and InPerson. Appointments is the base class and Video and InPerson inherit from it. All three classes implement the ICostable interface which allows them to calculate the cost of an appointment.
+
+The Appointments class has private variables for appointment ID, date, time, duration, patient name, phone number, and doctor ID. It also has public properties to access these variables. The Appointments class has two constructors - one with no parameters and one with parameters for all of its private variables. It also has a CalculateCost method which calculates the cost of the appointment based on the duration and a staff cost of £10 per minute.
+
+The Video class inherits from Appointments and adds an additional private variable for the patient's email. It has a public property for this variable and a constructor with parameters for all of the variables from both the Appointments and Video classes. It also has a CalculateCost method which calculates the cost of the appointment based on the duration and a staff cost of £10 per minute.
+
+The InPerson class also inherits from Appointments and adds a private variable for the room the appointment will be held in. It has a public property for this variable and two constructors - one with parameters for all of the variables from both the Appointments and InPerson classes, and one with parameters for the variables in the Appointments class. It has a CalculateCost method which calculates the cost of the appointment based on the duration and a staff cost of £25 per minute for appointments less than or equal to 10 minutes, and £35 per minute for appointments over 10 minutes.
 
 Please feel free to explore the code and use it as a reference for your own project. If you have any questions or suggestions, don't hesitate to reach out to us. Thank you for visiting!
