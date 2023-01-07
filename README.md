@@ -64,5 +64,16 @@ The Appointments class has private variables for appointment ID, date, time, dur
 The Video class inherits from Appointments and adds an additional private variable for the patient's email. It has a public property for this variable and a constructor with parameters for all of the variables from both the Appointments and Video classes. It also has a CalculateCost method which calculates the cost of the appointment based on the duration and a staff cost of £10 per minute.
 
 The InPerson class also inherits from Appointments and adds a private variable for the room the appointment will be held in. It has a public property for this variable and two constructors - one with parameters for all of the variables from both the Appointments and InPerson classes, and one with parameters for the variables in the Appointments class. It has a CalculateCost method which calculates the cost of the appointment based on the duration and a staff cost of £25 per minute for appointments less than or equal to 10 minutes, and £35 per minute for appointments over 10 minutes.
+ 
+  ![Screenshot_20230106_235102](https://user-images.githubusercontent.com/101879237/211122806-b21aa436-1bb0-41af-8f05-4440af32c1a7.png)
+![Screenshot_20230106_235122](https://user-images.githubusercontent.com/101879237/211122853-50945d5c-1e3b-44b4-95e7-81e56bb3c81f.png)
+![Screenshot_20230106_235155](https://user-images.githubusercontent.com/101879237/211122862-9a916f01-4023-451b-98bd-fc9b94d82ace.png)
+![Screenshot_20230106_235506](https://user-images.githubusercontent.com/101879237/211122906-04b0b097-1514-469d-b6b2-d49d4a08b917.png)
+![Screenshot_20230106_235609](https://user-images.githubusercontent.com/101879237/211122916-a18305d9-899c-4a62-92b4-2387f7fd4c53.png)
+  ![Screenshot_20230107_000702](https://user-images.githubusercontent.com/101879237/211122933-10f51efc-9b8b-4a1b-b909-9a28b138c793.png)
+![Screenshot_20230106_235733](https://user-images.githubusercontent.com/101879237/211122925-7d31de0e-665e-48c6-a838-94926313df81.png)
+
+
+
 
 Please feel free to explore the code and use it as a reference for your own project. If you have any questions or suggestions, don't hesitate to reach out to us. Thank you for visiting!
