@@ -64,6 +64,11 @@ The Appointments class has private variables for appointment ID, date, time, dur
 The Video class inherits from Appointments and adds an additional private variable for the patient's email. It has a public property for this variable and a constructor with parameters for all of the variables from both the Appointments and Video classes. It also has a CalculateCost method which calculates the cost of the appointment based on the duration and a staff cost of £10 per minute.
 
 The InPerson class also inherits from Appointments and adds a private variable for the room the appointment will be held in. It has a public property for this variable and two constructors - one with parameters for all of the variables from both the Appointments and InPerson classes, and one with parameters for the variables in the Appointments class. It has a CalculateCost method which calculates the cost of the appointment based on the duration and a staff cost of £25 per minute for appointments less than or equal to 10 minutes, and £35 per minute for appointments over 10 minutes.
+  
+Built With
+C#
+Visual Studio
+Author- Ryan Tsihugwa
  
   ![Screenshot_20230106_235102](https://user-images.githubusercontent.com/101879237/211122806-b21aa436-1bb0-41af-8f05-4440af32c1a7.png)
 ![Screenshot_20230106_235122](https://user-images.githubusercontent.com/101879237/211122853-50945d5c-1e3b-44b4-95e7-81e56bb3c81f.png)
