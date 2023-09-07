@@ -14,4 +14,3 @@ Pass mark is an average grade of 40 or higher
 Present a summary of the student, including ID details, individual module marks and overall course result
 
 
-WeAreCars would like this system to be as robust and as user friendly as possible. Attention to detail and the inclusion of validation and help systems / tooltips are recommended.
