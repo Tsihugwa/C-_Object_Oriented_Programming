@@ -36,7 +36,7 @@ o	A list of all virtual appointments and email address for video call where rele
 
 Software Development Methodology
 
-The software is being developed within an agile framework, specifically as two month-long sprints.  
+The software is being developed within an agile framework  
 
 Sprint 1 deliverables include the alpha design documentation and software prototype. 
 
