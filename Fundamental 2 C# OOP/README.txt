@@ -1,5 +1,5 @@
-Section 1 C# program - 40% 
-You have been tasked with developing a Windows forms based application using C# that will assist in the rental of cars. The systems must be able to do and include the following:
+Task
+developing a Windows forms based application using C# that will assist in the rental of cars. The systems must be able to do and include the following:
 
 A welcome splash screen
 A staff login page that allows a staff member to login into the system, using a fixed username and password
