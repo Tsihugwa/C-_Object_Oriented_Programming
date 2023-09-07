@@ -3,19 +3,33 @@ An example XML file showing the structure of the data is provided below:
 
 
 <?xml version="1.0" encoding="utf-8" ?>
+
 <SpeedyEat>
+  
 <Driver name="Liz Gandy">
+  
 <Journey date="16/02/2023">
+  
 <Collection>SR6 0DD</Collection>
+
 <Delivery>NE10 4XX</Delivery>
+
 <Distance>3</Distance>
+
 </Journey>
+
 <Journey date="21/03/2023">
+  
 <Collection>DH3 2YZ</Collection>
+
 <Delivery>SR1 5XY</Delivery>
+
 <Distance>12</Distance>
+
 </Journey>
+
 </Driver>
+
 </SpeedyEat>
 
 
