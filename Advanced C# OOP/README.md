@@ -1,5 +1,7 @@
 The system should be made available as a client-server application but your task has been simplified. You are required to develop a prototype application that will run on a standalone PC but you should make use of separation of concerns so that the job of transferring the application to the event management company’s client-server environment in the future will be possible with minimum adjustments to your code.
 An example XML file showing the structure of the data is provided below:
+
+
 <?xml version="1.0" encoding="utf-8" ?>
 <SpeedyEat>
 <Driver name="Liz Gandy">
@@ -15,6 +17,8 @@ An example XML file showing the structure of the data is provided below:
 </Journey>
 </Driver>
 </SpeedyEat>
+
+
 This XML file represents the data for a driver called Liz Gandy, with two journeys completed; 16th February
 2023 of 3 miles from SR6 0DD to NE10 4XX and 21st March 2023 of 12 miles from DH3 2YZ to SR1 5XY.
 The data for each driver will be stored in a separate file and each driver may have any number of journeys recorded, which may be on different dates in the same file.
