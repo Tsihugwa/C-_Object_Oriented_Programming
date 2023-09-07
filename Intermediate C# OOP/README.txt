@@ -2,14 +2,14 @@ provide a client-server application where doctors can log on and obtain their ap
 
 The data fields recorded for each Appointment are listed in the table below:
 
-Name	Description	Example
-ID	Unique code to identify the appointment	9876
-Date	Date of the appointment	15/11/22
-Time	Time of the appointment	10:30
-Duration	Length of time allocated to the appointment (in minutes)	10
-Patient name	Name of patient	Buzz Lightyear
-Phone number	Contact phone number for the patient	07123456789
-Doctor ID	ID number of the doctor allocated to the appointment	GP10
+Name	          Description	                                                    Example
+ID	            Unique code to identify the appointment	                         9876
+Date	          Date of the appointment	                                         15/11/22
+Time	          Time of the appointment	                                         10:30
+Duration	      Length of time allocated to the appointment (in minutes)	       10
+Patient name	  Name of patient                                                  Buzz Lightyear
+Phone number	  Contact phone number for the patient	                           07123456789
+Doctor ID	      ID number of the doctor allocated to the appointment	           GP10
 
 In-person appointments have the following additional data fields:
 
