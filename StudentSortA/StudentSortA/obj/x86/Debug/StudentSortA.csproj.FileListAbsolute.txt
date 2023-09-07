@@ -1,0 +1,20 @@
+L:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\StudentSortA\StudentSortA\bin\Debug\StudentSortA.exe
+L:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\StudentSortA\StudentSortA\bin\Debug\StudentSortA.pdb
+L:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\StudentSortA\StudentSortA\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\StudentSortA\StudentSortA\obj\x86\Debug\StudentSortA.exe
+L:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\StudentSortA\StudentSortA\obj\x86\Debug\StudentSortA.pdb
+J:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\StudentSortA\StudentSortA\obj\x86\Debug\StudentSortA.exe
+J:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\StudentSortA\StudentSortA\obj\x86\Debug\StudentSortA.pdb
+J:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\StudentSortA\StudentSortA\bin\Debug\StudentSortA.exe
+J:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\StudentSortA\StudentSortA\bin\Debug\StudentSortA.pdb
+J:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\StudentSortA\StudentSortA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2 cet203\0 Sessions\Session 8 Search & sort\Session 8A\8A Example programs\StudentSortA\StudentSortA\obj\x86\Debug\StudentSortA.exe
+E:\2 cet203\0 Sessions\Session 8 Search & sort\Session 8A\8A Example programs\StudentSortA\StudentSortA\obj\x86\Debug\StudentSortA.pdb
+E:\2 cet203\0 Sessions\Session 8 Search & sort\Session 8A\8A Example programs\StudentSortA\StudentSortA\bin\Debug\StudentSortA.exe
+E:\2 cet203\0 Sessions\Session 8 Search & sort\Session 8A\8A Example programs\StudentSortA\StudentSortA\bin\Debug\StudentSortA.pdb
+E:\2 cet203\0 Sessions\Session 8 Search & sort\Session 8A\8A Example programs\StudentSortA\StudentSortA\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\StudentSortA\StudentSortA\bin\Debug\StudentSortA.exe
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\StudentSortA\StudentSortA\bin\Debug\StudentSortA.pdb
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\StudentSortA\StudentSortA\obj\x86\Debug\StudentSortA.csproj.CoreCompileInputs.cache
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\StudentSortA\StudentSortA\obj\x86\Debug\StudentSortA.exe
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\StudentSortA\StudentSortA\obj\x86\Debug\StudentSortA.pdb

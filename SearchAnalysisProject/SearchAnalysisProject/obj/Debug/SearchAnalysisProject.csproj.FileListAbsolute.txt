@@ -1,0 +1,32 @@
+C:\Users\Linda\Documents\0 Work\cet203\Linda week 1\Projects\SearchAnalysisProject\SearchAnalysisProject\bin\Debug\SearchAnalysisProject.exe
+C:\Users\Linda\Documents\0 Work\cet203\Linda week 1\Projects\SearchAnalysisProject\SearchAnalysisProject\bin\Debug\SearchAnalysisProject.pdb
+C:\Users\Linda\Documents\0 Work\cet203\Linda week 1\Projects\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Linda\Documents\0 Work\cet203\Linda week 1\Projects\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.exe
+C:\Users\Linda\Documents\0 Work\cet203\Linda week 1\Projects\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.pdb
+C:\Users\Linda\Documents\0 Work\cet203\Session 7\Projects\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.exe
+C:\Users\Linda\Documents\0 Work\cet203\Session 7\Projects\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.pdb
+C:\Users\cs0lwh\Documents\cet203\Sessions\Session 7\Exercise solutions\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.exe
+C:\Users\cs0lwh\Documents\cet203\Sessions\Session 7\Exercise solutions\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.pdb
+C:\Users\cs0lwh\Documents\cet203\Sessions\Session 7\Exercise solutions\SearchAnalysisProject\SearchAnalysisProject\bin\Debug\SearchAnalysisProject.exe
+C:\Users\cs0lwh\Documents\cet203\Sessions\Session 7\Exercise solutions\SearchAnalysisProject\SearchAnalysisProject\bin\Debug\SearchAnalysisProject.pdb
+C:\Users\cs0lwh\Documents\cet203\Sessions\Session 7\Exercise solutions\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cs0lwh\Documents\cet203\Sessions\Session 7\Session 7a\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.exe
+C:\Users\cs0lwh\Documents\cet203\Sessions\Session 7\Session 7a\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.pdb
+L:\zOld material\cet203 OLD\Session 6 OLD\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.exe
+L:\zOld material\cet203 OLD\Session 6 OLD\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.pdb
+L:\zOld material\cet203 OLD\Session 6 OLD\SearchAnalysisProject\SearchAnalysisProject\bin\Debug\SearchAnalysisProject.exe
+L:\zOld material\cet203 OLD\Session 6 OLD\SearchAnalysisProject\SearchAnalysisProject\bin\Debug\SearchAnalysisProject.pdb
+L:\zOld material\cet203 OLD\Session 6 OLD\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\ResolveAssemblyReference.cache
+L:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.exe
+L:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.pdb
+C:\Users\cs0lwh\Documents\2 cet203\0 Sessions\Session 8 Search & sort\Projects\8A Example programs\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.exe
+C:\Users\cs0lwh\Documents\2 cet203\0 Sessions\Session 8 Search & sort\Projects\8A Example programs\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.pdb
+C:\Users\cs0lwh\Documents\2 cet203\0 Sessions\Session 8 Search & sort\Projects\8A Example programs\SearchAnalysisProject\SearchAnalysisProject\bin\Debug\SearchAnalysisProject.exe
+C:\Users\cs0lwh\Documents\2 cet203\0 Sessions\Session 8 Search & sort\Projects\8A Example programs\SearchAnalysisProject\SearchAnalysisProject\bin\Debug\SearchAnalysisProject.pdb
+L:\2 cet203\0 Sessions\Session 8 Search & sort\Session 8A\8A Example programs\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.exe
+L:\2 cet203\0 Sessions\Session 8 Search & sort\Session 8A\8A Example programs\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.pdb
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\SearchAnalysisProject\SearchAnalysisProject\bin\Debug\SearchAnalysisProject.exe
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\SearchAnalysisProject\SearchAnalysisProject\bin\Debug\SearchAnalysisProject.pdb
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.csproj.CoreCompileInputs.cache
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.exe
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\SearchAnalysisProject\SearchAnalysisProject\obj\Debug\SearchAnalysisProject.pdb

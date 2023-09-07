@@ -1,0 +1,19 @@
+L:\cet203\0 Sessions\Session 6\Session 6A\StudentSearch\StudentSearch\bin\Debug\StudentSearch.exe
+L:\cet203\0 Sessions\Session 6\Session 6A\StudentSearch\StudentSearch\bin\Debug\StudentSearch.pdb
+L:\cet203\0 Sessions\Session 6\Session 6A\StudentSearch\StudentSearch\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\cet203\0 Sessions\Session 6\Session 6A\StudentSearch\StudentSearch\obj\x86\Debug\StudentSearch.exe
+L:\cet203\0 Sessions\Session 6\Session 6A\StudentSearch\StudentSearch\obj\x86\Debug\StudentSearch.pdb
+L:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\StudentSearch\StudentSearch\obj\x86\Debug\StudentSearch.exe
+L:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\StudentSearch\StudentSearch\obj\x86\Debug\StudentSearch.pdb
+J:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\StudentSearch\StudentSearch\obj\x86\Debug\StudentSearch.exe
+J:\cet203\0 Sessions\Session 6\Session 6A\6A Example programs\StudentSearch\StudentSearch\obj\x86\Debug\StudentSearch.pdb
+E:\2 cet203\0 Sessions\Session 8 Search & sort\Session 8A\8A Example programs\StudentSearch\StudentSearch\obj\x86\Debug\StudentSearch.exe
+E:\2 cet203\0 Sessions\Session 8 Search & sort\Session 8A\8A Example programs\StudentSearch\StudentSearch\obj\x86\Debug\StudentSearch.pdb
+C:\Users\Linda\Documents\1 Work\2 cet203\0 Sessions\Session 8 Search & sort\Projects\8A Example programs\StudentSearch\StudentSearch\obj\x86\Debug\StudentSearch.exe
+C:\Users\Linda\Documents\1 Work\2 cet203\0 Sessions\Session 8 Search & sort\Projects\8A Example programs\StudentSearch\StudentSearch\obj\x86\Debug\StudentSearch.pdb
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\StudentSearch\StudentSearch\bin\Debug\StudentSearch.exe
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\StudentSearch\StudentSearch\bin\Debug\StudentSearch.pdb
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\StudentSearch\StudentSearch\obj\x86\Debug\StudentSearch.csproj.AssemblyReference.cache
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\StudentSearch\StudentSearch\obj\x86\Debug\StudentSearch.csproj.CoreCompileInputs.cache
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\StudentSearch\StudentSearch\obj\x86\Debug\StudentSearch.exe
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 1 Examples\Session 1 Part 1 Examples\StudentSearch\StudentSearch\obj\x86\Debug\StudentSearch.pdb
