@@ -1,0 +1,22 @@
+C:\Users\cs0lwh\Documents\cet203\0 Sessions\Session 7\Session 7B\7B Solutions\StaffBinaryTree\StaffBinaryTree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cs0lwh\Documents\cet203\0 Sessions\Session 7\Session 7B\7B Solutions\StaffBinaryTree\StaffBinaryTree\bin\Debug\StaffBinaryTree.exe
+C:\Users\cs0lwh\Documents\cet203\0 Sessions\Session 7\Session 7B\7B Solutions\StaffBinaryTree\StaffBinaryTree\bin\Debug\StaffBinaryTree.pdb
+C:\Users\cs0lwh\Documents\cet203\0 Sessions\Session 7\Session 7B\7B Solutions\StaffBinaryTree\StaffBinaryTree\obj\x86\Debug\StaffBinaryTree.exe
+C:\Users\cs0lwh\Documents\cet203\0 Sessions\Session 7\Session 7B\7B Solutions\StaffBinaryTree\StaffBinaryTree\obj\x86\Debug\StaffBinaryTree.pdb
+C:\Users\cs0lwh\Documents\cet203\0 Sessions\Session 7\Session 7B\7B Solutions\StaffBinaryTreeA\StaffBinaryTree\obj\x86\Debug\StaffBinaryTree.exe
+C:\Users\cs0lwh\Documents\cet203\0 Sessions\Session 7\Session 7B\7B Solutions\StaffBinaryTreeA\StaffBinaryTree\obj\x86\Debug\StaffBinaryTree.pdb
+D:\cet203\0 Sessions\Session 7\Session 7B\7B Example programs\StaffBinaryTreeA\StaffBinaryTree\obj\x86\Debug\StaffBinaryTree.exe
+D:\cet203\0 Sessions\Session 7\Session 7B\7B Example programs\StaffBinaryTreeA\StaffBinaryTree\obj\x86\Debug\StaffBinaryTree.pdb
+D:\cet203\0 Sessions\Session 7\Session 7B\7B Example programs\StaffBinaryTreeA\StaffBinaryTree\bin\Debug\StaffBinaryTree.exe
+D:\cet203\0 Sessions\Session 7\Session 7B\7B Example programs\StaffBinaryTreeA\StaffBinaryTree\bin\Debug\StaffBinaryTree.pdb
+D:\cet203\0 Sessions\Session 7\Session 7B\7B Example programs\StaffBinaryTreeA\StaffBinaryTree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cs0lwh\Documents\2 cet203\Session 9\9B\9B Example programs\StaffBinaryTreeA\StaffBinaryTree\obj\x86\Debug\StaffBinaryTree.exe
+C:\Users\cs0lwh\Documents\2 cet203\Session 9\9B\9B Example programs\StaffBinaryTreeA\StaffBinaryTree\obj\x86\Debug\StaffBinaryTree.pdb
+C:\Users\cs0lwh\Documents\2 cet203\Session 9\9B\9B Example programs\StaffBinaryTreeA\StaffBinaryTree\bin\Debug\StaffBinaryTree.exe
+C:\Users\cs0lwh\Documents\2 cet203\Session 9\9B\9B Example programs\StaffBinaryTreeA\StaffBinaryTree\bin\Debug\StaffBinaryTree.pdb
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 2 Examples\Session 1 Part 2 Examples\StaffBinaryTreeA\StaffBinaryTree\bin\Debug\StaffBinaryTree.exe
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 2 Examples\Session 1 Part 2 Examples\StaffBinaryTreeA\StaffBinaryTree\bin\Debug\StaffBinaryTree.pdb
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 2 Examples\Session 1 Part 2 Examples\StaffBinaryTreeA\StaffBinaryTree\obj\x86\Debug\StaffBinaryTree.csproj.AssemblyReference.cache
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 2 Examples\Session 1 Part 2 Examples\StaffBinaryTreeA\StaffBinaryTree\obj\x86\Debug\StaffBinaryTree.csproj.CoreCompileInputs.cache
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 2 Examples\Session 1 Part 2 Examples\StaffBinaryTreeA\StaffBinaryTree\obj\x86\Debug\StaffBinaryTree.exe
+F:\UoS Docs\Advanced Software Development\Sample Codes\Session 1 Part 2 Examples\Session 1 Part 2 Examples\StaffBinaryTreeA\StaffBinaryTree\obj\x86\Debug\StaffBinaryTree.pdb
